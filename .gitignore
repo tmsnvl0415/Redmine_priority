@@ -1,0 +1,6 @@
+# 자동 생성되는 파일들
+SQA_Priority_Report_*.xlsx
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
